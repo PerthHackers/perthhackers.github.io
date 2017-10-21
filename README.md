@@ -5,6 +5,8 @@ Github hosted github.io web page url https://perthhackers.github.io/
 
 Meetup web page url https://www.meetup.com/Perth-Hackers
 
+Gitter channel for real time chat https://gitter.im/Perth-Hackers
+
 Format of the meetup.
 Introductions. 
   * Who are you?
