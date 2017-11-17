@@ -11,7 +11,7 @@ Format of the meetup.
 Introductions. 
   * Who are you?
   * Have done OpenSource or New? 
-  * You goal. Here to learn a new framework or language? Or how to contribute?
+  * Your goal. Here to learn a new framework or language? Or how to contribute?
   
 Pair up. If possible we will pair up people new to Open Source with people who have contributed before.
 Choose a project. 
@@ -24,4 +24,7 @@ Choose a project.
   * Engage with the contributors. 
   * Feedback on any issues you hit getting set up can be invaluable
   
- 
+Further Reading. 
+  * Great Guide on How to Contribute to Open Source https://opensource.guide/how-to-contribute/
+  * Add remote to upstream fork https://help.github.com/articles/configuring-a-remote-for-a-fork/
+  * Keeping your fork synced with upstream https://help.github.com/articles/syncing-a-fork/
