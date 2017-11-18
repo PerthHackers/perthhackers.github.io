@@ -26,5 +26,6 @@ Choose a project.
   
 Further Reading. 
   * Great Guide on How to Contribute to Open Source https://opensource.guide/how-to-contribute/
+  * Egghead video course on How to Contribute to an Open Source Project on Github https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
   * Add remote to upstream fork https://help.github.com/articles/configuring-a-remote-for-a-fork/
   * Keeping your fork synced with upstream https://help.github.com/articles/syncing-a-fork/
