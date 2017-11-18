@@ -29,3 +29,5 @@ Further Reading.
   * Egghead video course on How to Contribute to an Open Source Project on Github https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
   * Add remote to upstream fork https://help.github.com/articles/configuring-a-remote-for-a-fork/
   * Keeping your fork synced with upstream https://help.github.com/articles/syncing-a-fork/
+  * Guide for git using npm:
+  https://www.npmjs.com/package/git-it 
