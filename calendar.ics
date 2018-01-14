@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:perthhackers.github.io
+BEGIN:VEVENT
+SUMMARY:Perth Hackers meetup January 2018
+UID:2018-01_perthhackers.github.io
+DTSTART:20180114T040000Z
+DTEND:20180114T080000Z
+LOCATION:Artifactory, unit 8, 16 Guthrie Street, Osborne Park
+DESCRIPTION:For more information see https://perthhackers.github.io/
+LAST-MODIFIED:20180114T054700Z
+DTSTAMP:20180114T054700Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perth Hackers meetup February 2018
+UID:2018-02_perthhackers.github.io
+DTSTART:20180211T040000Z
+DTEND:20180211T080000Z
+LOCATION:Artifactory, unit 8, 16 Guthrie Street, Osborne Park
+DESCRIPTION:For more information see https://perthhackers.github.io/
+LAST-MODIFIED:20180114T054700Z
+DTSTAMP:20180114T054700Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perth Hackers meetup March 2018
+UID:2018-03_perthhackers.github.io
+DTSTART:20180311T040000Z
+DTEND:20180311T080000Z
+LOCATION:Artifactory, unit 8, 16 Guthrie Street, Osborne Park
+DESCRIPTION:For more information see https://perthhackers.github.io/
+LAST-MODIFIED:20180114T054700Z
+DTSTAMP:20180114T054700Z
+END:VEVENT
+END:VCALENDAR
