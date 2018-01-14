@@ -31,3 +31,25 @@ Further Reading.
   * Keeping your fork synced with upstream https://help.github.com/articles/syncing-a-fork/
   * Guide for git using npm:
   https://www.npmjs.com/package/git-it 
+
+## Calendar
+
+We have an calendar that you can subscribe to at
+https://perthhackers.github.io/calendar.ics
+
+To add an event to the calendar, copy the following template and modify it accordingly
+(the last two lines can be the same timestamp, of the time you modify the file;
+all times are in UTC):
+
+```icalendar
+BEGIN:VEVENT
+SUMMARY:Perth Hackers meetup March 2018
+UID:2018-03_perthhackers.github.io
+DTSTART:20180311T040000Z
+DTEND:20180311T080000Z
+LOCATION:Artifactory, unit 8, 16 Guthrie Street, Osborne Park
+DESCRIPTION:For more information see https://perthhackers.github.io/
+LAST-MODIFIED:20180114T054700Z
+DTSTAMP:20180114T054700Z
+END:VEVENT
+```
