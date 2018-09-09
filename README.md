@@ -31,6 +31,14 @@ Further Reading.
   * Keeping your fork synced with upstream https://help.github.com/articles/syncing-a-fork/
   * Guide for git using npm:
   https://www.npmjs.com/package/git-it 
+  
+### Some Open Source Resources
+Check out [@csharpfritz](https://twitter.com/csharpfritz) who runs a live coding stream on Twitch.TV. [csharpfritz on Twitch.tv](https://www.twitch.tv/csharpfritz)
+
+Follow him, and watch his streams. Lots to learn, and he has an Open Source project you can contribute to here
+[CoreWiki - https://github.com/csharpfritz/CoreWiki](https://github.com/csharpfritz/CoreWiki)
+
+Oh, and if he gets up to 5000 followers then he will dye his beard Rainbow coloured. :)
 
 ## Calendar
 
