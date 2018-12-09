@@ -7,6 +7,12 @@ Meetup web page url https://www.meetup.com/Perth-Hackers
 
 Gitter channel for real time chat https://gitter.im/Perth-Hackers
 
+Where we meet:
+http://artifactory.org.au/ 
+
+Artifactory payment details ($10 helps cover the rent of this awesome venue!!)
+Perth Artifactory BSB/Account details (if you need to transfer online etc) http://wiki.artifactory.org.au/doku.php?id=payment
+
 Format of the meetup.
 Introductions. 
   * Who are you?
